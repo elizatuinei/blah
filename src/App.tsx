@@ -3,6 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  // nothing is enforced by default so we have
+  // to install ESLint to make consis
   return (
     <div className="App">
       <header className="App-header">

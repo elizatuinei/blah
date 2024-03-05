@@ -1,0 +1,11 @@
+// this is where we put our rules
+// this helps with good quality code
+{
+  "extends": ["react-app", "plugin:prettier/recommended"],
+  "prettier/prettier": [
+    "error",
+    {
+      "endOfLine": "auto"
+    }
+  ]
+}
